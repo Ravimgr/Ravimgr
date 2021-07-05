@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ravimgr
 - 👀 I’m interested in technology, life, and everything
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python(Django)
+- 💞️ I’m looking to collaborate on (searching)
 - 📫 How to reach me meroravi0@gmail.com
 
 <!---
