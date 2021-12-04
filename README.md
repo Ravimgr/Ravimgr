@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Ravi Thapa</h1>
-<h3 align="center">A passionate self-taught flutter developer from Nepal</h3>
+<h1>Hi there 👋, I'm Ravi Thapa</h1>
+<h3>A passionate self-taught flutter developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravimgr&label=Profile%20views&color=0e75b6&style=flat" alt="ravimgr" /> </p>
 
