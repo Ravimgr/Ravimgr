@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter ,Dart**
 
-- 📫 How to reach me **meroravi0@gmail.com**
+- 📫 How to reach me **iamrtmfd@gmail.com**
 
 - ⚡ Fun fact **I love to dance and play guitar.**
 
