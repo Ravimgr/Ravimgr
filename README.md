@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Aafno-khata**
 
-- 🌱 I’m currently learning **Flutter/Dart**
+- 🌱 I’m currently learning **Flutter BLoC **
 
-- 💬 Ask me about **Flutter ,Dart**
+- 💬 Ask me about **Flutter , Dart**
 
 - 📫 How to reach me **iamrtmfd@gmail.com**
 
-- ⚡ Fun fact **I love to dance and play guitar.**
+- ⚡ Fun fact **I love to sign and play guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
