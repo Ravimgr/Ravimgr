@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Aafno-khata**
 
-- 🌱 I’m currently learning **Flutter BLoC**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **Flutter , Dart**
 
