@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 
 <h1 align="center">Hi 👋, I'm Ravi Thapa</h1>
-<h3 align="center">A passionate Flutter Developer and Web Enthusiastic from Nepal</h3>
+<h3 align="center">A passionate Flutter Developer and Web Enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravimgr&label=Profile%20views&color=0e75b6&style=flat" alt="ravimgr" /> </p>
 
